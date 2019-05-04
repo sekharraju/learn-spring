@@ -10,7 +10,7 @@ public class DefaultContextProcessor {
 
     @RequestMapping("/")
     String defaultContext() {
-        return "Welcome to Spring WORLD!!!- Test2";
+        return "Welcome to Spring WORLD!!!- Test3";
     }
 
     public static void main(String[] args) throws Exception {
